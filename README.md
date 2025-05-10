@@ -29,8 +29,8 @@ This project is a Parallel and Distributed Computing Semester Project aimed at d
       ``git clone https://github.com/ZohaWajahat/Optimized-Machine-Learning-Pipeline-for-Binary-Classification.git``
    
 2. Navigate to the project directory:<br>
-     ``cd optimized-ml-pipeline``
+      ``cd optimized-ml-pipeline``
 
 3. Install the required dependencies:<br>
-       ``pip install -r requirements.txt``
+      ``pip install -r requirements.txt``
 
