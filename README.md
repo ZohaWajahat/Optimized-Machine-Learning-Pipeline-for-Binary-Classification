@@ -24,13 +24,10 @@ This project is a Parallel and Distributed Computing Semester Project aimed at d
 • CUDA, Multiprocessing, Multithreading for parallel processing<br>
 • Matplotlib, Seaborn for data visualization<br>
 
-## Setup Instructions
-1. Clone the repository:<br>
-      ``git clone https://github.com/ZohaWajahat/Optimized-Machine-Learning-Pipeline-for-Binary-Classification.git``
-   
-2. Navigate to the project directory:<br>
-      ``cd optimized-ml-pipeline``
+## Results and Evaluation
+• Accuracy: Achieved optimal accuracy after optimization.<br>
+• Processing Time: Reduced by at least 70% through parallel and distributed techniques.<br>
+• Confusion Matrix: Stored as an image in the results folder.<br>
+• F1 Score: Detailed in the evaluation report.<br>
 
-3. Install the required dependencies:<br>
-      ``pip install -r requirements.txt``
 
