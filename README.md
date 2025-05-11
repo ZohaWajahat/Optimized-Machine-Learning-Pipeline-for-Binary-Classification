@@ -1,7 +1,10 @@
 # Optimized-Machine-Learning-Pipeline-for-Binary-Classification
 
+## Course
+Parallel and Distributed Computing
+
 ## Project Overview
-This project is a Parallel and Distributed Computing Semester Project aimed at designing and implementing an optimized machine learning pipeline for binary classification using a provided dataset. The main objective is to leverage parallel processing, distributed computing, GPU acceleration, or a hybrid approach to minimize processing time and maximize model accuracy.
+This project is aimed at designing and implementing an optimized machine learning pipeline for binary classification using a provided dataset. The main objective is to leverage parallel processing, distributed computing, GPU acceleration, or a hybrid approach to minimize processing time and maximize model accuracy.
 
 ## Objectives
 • Efficiently preprocess the dataset (handle missing values, encode categorical data, and normalize features).<br>
